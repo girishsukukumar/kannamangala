@@ -1,4 +1,4 @@
-# Cost Estimats  for  Kannamangala Lake Restoration 
+# Cost Estimates  for  Kannamangala Lake Restoration 
 
 ## 1. Introduction
       This document caputres the cost estimates for restoration of the Kannamangala Lake. 
@@ -18,13 +18,27 @@ Ariel View of Lake
       3. Information Collected from local residents
       4. Past Lake restoration projects
       
-## 3. Estimate Break up
+## 3. Area and Perimeter Breakup
+
+Lake-1
+![alt text][logo]
+
+[logo]: https://github.com/girishsukukumar/kannamangala/blob/master/view-1.jpeg "Logo Title Text 2"
+      
+Lake-2
+![alt text][logo]
+
+[logo]: https://github.com/girishsukukumar/kannamangala/blob/master/view-2.jpeg "Logo Title Text 2"
+      
 | No.    | Area                 | Perimeter     |
 |:------:|:--------------------:|:-------------:|
-| Lake-1 | 12000                 | 600 meters   |
-| Lake-2 | 13000                 | 700 meters   |
+| Lake-1 | 12000     sq. meters | 600 meters    |
+| Lake-2 | 13000     sq meters  | 700 meters    |
+|:------:|:--------------------:|:-------------:|
+|Total  :|:25000|--------------:|:1300 meters--:|
 
 
+## 4. Cost Estimate Breakup
 | No. | Activity                 | Cost     |
 |:---:|:------------------:      |:--------:|
 | 1   | Desilting                | 25 Lakhs |
