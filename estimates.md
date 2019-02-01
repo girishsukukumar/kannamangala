@@ -17,10 +17,19 @@ Ariel View of Lake
       2. Ariel Survey details from Google Earth
       3. Information Collected from local residents
       4. Past Lake restoration projects
+      
 ## 3. Estimate Break up
+| No.    | Area                 | Perimeter     |
+|:------:|:--------------------:|:-------------:|
+| Lake-1 | 12000                 | 600 meters   |
+| Lake-2 | 13000                 | 700 meters   |
 
-| No. | Activity      | Estimate Rate | Cost  |
-|:---:|:-------------:|:-------------:|:-----:|
-| 1   | col 3 is      | right-aligned | $1600 |
-| 2   | col 2 is      | centered      |   $12 |
-| 3   | zebra stripes | are neat      |    $1 |
+
+| No. | Activity                 | Cost     |
+|:---:|:------------------:      |:--------:|
+| 1   | Desilting                | 25 Lakhs |
+| 2   | Bund Construction        | 50 Lakhs |
+| 3   | Chain Link fensing       | 50 Lakhs |
+| 4   | Culverts and Waste Weir  | 5 Lakhs  |
+| 5   | STP Water canals         | 5 Lakhs  |
+| 6   | Landscaping              | 3 Lakhs  |
