@@ -20,21 +20,11 @@ Ariel View of Lake
       
 ## 3. Area and Perimeter Breakup
 
-Lake-1
-![alt text][logo]
 
-[logo]: https://github.com/girishsukukumar/kannamangala/blob/master/view-1.jpeg "Logo Title Text 2"
-      
-Lake-2
-![alt text][logo]
-
-[logo]: https://github.com/girishsukukumar/kannamangala/blob/master/view-2.jpeg "Logo Title Text 2"
-      
 | No.    | Area                 | Perimeter     |
 |:------:|:--------------------:|:-------------:|
 | Lake-1 | 12000     sq. meters | 600 meters    |
 | Lake-2 | 13000     sq meters  | 700 meters    |
-|:------:|:--------------------:|:-------------:|
 |Total   |25000                 |1300 meters    |
 
 
@@ -47,3 +37,4 @@ Lake-2
 | 4   | Culverts and Waste Weir  | 5 Lakhs  |
 | 5   | STP Water canals         | 5 Lakhs  |
 | 6   | Landscaping              | 3 Lakhs  |
+| 7   | Final Aeration           | 3 Lakhs  |
