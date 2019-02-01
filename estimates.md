@@ -35,7 +35,7 @@ Lake-2
 | Lake-1 | 12000     sq. meters | 600 meters    |
 | Lake-2 | 13000     sq meters  | 700 meters    |
 |:------:|:--------------------:|:-------------:|
-|Total  :|:25000|--------------:|:1300 meters--:|
+|Total   |25000                 |1300 meters    |
 
 
 ## 4. Cost Estimate Breakup
