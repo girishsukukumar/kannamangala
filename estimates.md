@@ -13,4 +13,14 @@ Ariel View of Lake
 [logo]: https://github.com/girishsukukumar/kannamangala/blob/master/lake1.jpeg "Logo Title Text 2"
       
 ## 2. Information Based on which estimates are prepared
+      1. Feasbility Report prepared on Lake Restoration prepared by Infrastructure Development Corporation (Karnataka) Limited 
+      2. Ariel Survey details from Google Earth
+      3. Information Collected from local residents
+      4. Past Lake restoration projects
 ## 3. Estimate Break up
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
