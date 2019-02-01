@@ -19,8 +19,8 @@ Ariel View of Lake
       4. Past Lake restoration projects
 ## 3. Estimate Break up
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| No. | Activity      | Estimate Rate | Cost  |
+|:---:|:-------------:|:-------------:|:-----:|
+| 1   | col 3 is      | right-aligned | $1600 |
+| 2   | col 2 is      | centered      |   $12 |
+| 3   | zebra stripes | are neat      |    $1 |
